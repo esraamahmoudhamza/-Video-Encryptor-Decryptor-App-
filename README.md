@@ -10,30 +10,6 @@ A robust and user-friendly desktop application built with **Python** and **Custo
 * **One-Click Decrypt:** Select a file from the list or browse one, enter the password, and decrypt the video back to its original format.
 * **Cross-Platform Playback:** Includes basic system commands to attempt playing the decrypted video instantly (Windows, macOS, Linux supported).
 
-## 🚀 Installation and Usage
-
-### Prerequisites
-
-* Python 3.8+
-
-### Setup
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/Video-Encryptor-CustomTkinter.git](https://github.com/YourUsername/Video-Encryptor-CustomTkinter.git)
-    cd Video-Encryptor-CustomTkinter
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *Note: You'll need `customtkinter` and `cryptography`.*
-
-3.  **Run the application:**
-    ```bash
-    python app.py
-    ```
 
 ### How to Use
 
